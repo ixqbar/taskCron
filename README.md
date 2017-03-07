@@ -3,4 +3,5 @@ taskCron
 
 task crontab
 
-http://xingqiba.sinaapp.com/?p=77
+### contact
+更多疑问请+qq群 233415606 or [website http://www.hnphper.com](http://www.hnphper.com)
